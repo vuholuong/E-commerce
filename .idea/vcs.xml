@@ -3,7 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Backend/simplecommerce-mdm-backend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Frontend/simplecommerce-mdm-as-frontend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Frontend/simplecommerce-mdm-frontend" vcs="Git" />
   </component>
 </project>
